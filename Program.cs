@@ -5,12 +5,12 @@ using System.Linq;
 class ParkingLot
 {
     private int totalSlots;
-    private List<string[]> slots; // Menggunakan array string untuk menyimpan detail kendaraan
+    private List<string[]> slots; 
 
     public ParkingLot(int size)
     {
         totalSlots = size;
-        slots = new List<string[]>(new string[totalSlots][]); // Inisialisasi dengan array string
+        slots = new List<string[]>(new string[totalSlots][]);
         Console.WriteLine($"Created a parking lot with {totalSlots} slots");
     }
 
@@ -20,7 +20,7 @@ class ParkingLot
         {
             if (slots[i] == null)
             {
-                slots[i] = new string[] { registrationNo, color, type }; // Menyimpan detail kendaraan sebagai array string
+                slots[i] = new string[] { registrationNo, color, type }; 
                 Console.WriteLine($"Allocated slot number: {i + 1}");
                 return;
             }
