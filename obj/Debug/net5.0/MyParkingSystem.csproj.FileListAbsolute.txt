@@ -1,0 +1,16 @@
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.exe
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.deps.json
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.runtimeconfig.json
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.runtimeconfig.dev.json
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.dll
+E:\MyParkingSystem\bin\Debug\net5.0\ref\MyParkingSystem.dll
+E:\MyParkingSystem\bin\Debug\net5.0\MyParkingSystem.pdb
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.csproj.AssemblyReference.cache
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.AssemblyInfoInputs.cache
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.AssemblyInfo.cs
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.csproj.CoreCompileInputs.cache
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.dll
+E:\MyParkingSystem\obj\Debug\net5.0\ref\MyParkingSystem.dll
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.pdb
+E:\MyParkingSystem\obj\Debug\net5.0\MyParkingSystem.genruntimeconfig.cache
